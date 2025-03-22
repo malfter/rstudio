@@ -47,14 +47,13 @@ Um GitHub Codespaces zu nutzen, benötigst du ein GitHub-Konto. Wenn du noch kei
 Sobald du ein GitHub-Konto erstellt hast, kannst du direkt loslegen! Im Folgenden findest du die notwendigen Schritte, um deine Entwicklungsumgebung einzurichten:
 
 1. **Projekt klonen**\
-    Klone dieses Repository in deinen eigenen GitHub-Namespace.\
-    (TODO: Bild einfügen)
+    Klone dieses Repository in deinen eigenen GitHub-Namespace.
 1. **Codespace erstellen**\
-    Richte einen neuen Codespace für das geklonte Projekt ein.\
-    (TODO: Bild einfügen)
+    Richte einen neuen Codespace für das geklonte Projekt ein.
 1. **RStudio öffnen**\
-    Öffne RStudio innerhalb des Codespaces und beginne mit der Entwicklung.\
-    (TODO: Bild einfügen)
+    Öffne RStudio innerhalb des Codespaces und beginne mit der Entwicklung.
+
+![GIF - Clone project and create codespace](assets/rstudio-codespace.gif)
 
 ### 💻 Lokale Desktop-Integration
 
